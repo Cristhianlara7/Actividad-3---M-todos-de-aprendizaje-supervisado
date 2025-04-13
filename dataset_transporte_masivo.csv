@@ -1,0 +1,21 @@
+origen,destino,hora,dia_semana,clima,tiempo_viaje
+Est. A,Est. D,16,Miércoles,Lluvia,14.78
+Est. B,Est. E,7,Jueves,Lluvia,13.0
+Est. A,Est. D,5,Lunes,Lluvia,14.87
+Est. B,Est. D,5,Jueves,Soleado,13.91
+Est. B,Est. E,9,Viernes,Lluvia,14.96
+Est. C,Est. F,10,Martes,Lluvia,15.13
+Est. A,Est. D,11,Miércoles,Lluvia,20.88
+Est. C,Est. F,13,Viernes,Soleado,14.4
+Est. A,Est. D,22,Jueves,Lluvia,15.99
+Est. A,Est. E,20,Viernes,Nublado,10.69
+Est. A,Est. E,9,Viernes,Soleado,15.08
+Est. C,Est. F,14,Viernes,Lluvia,18.36
+Est. B,Est. D,15,Jueves,Nublado,14.33
+Est. C,Est. E,6,Viernes,Soleado,13.74
+Est. C,Est. E,6,Viernes,Nublado,18.0
+Est. A,Est. E,12,Viernes,Soleado,16.29
+Est. B,Est. D,14,Lunes,Lluvia,13.05
+Est. B,Est. F,8,Viernes,Nublado,10.5
+Est. B,Est. D,11,Jueves,Nublado,11.31
+Est. B,Est. F,16,Miércoles,Lluvia,15.58
